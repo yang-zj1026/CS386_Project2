@@ -1,6 +1,12 @@
 # CS386 - Assignment 2
 
-Code repository for CS386 Assignment 2 @SJTU
+Code repository for CS386 Assignment 2. **AV-Saliency: Audio Visual Saliency Detection** @SJTU
+
+## Description
+
+In this assignment, I design a DNN model for Audio Visual Saliency Detection using backbone of ResNet-50 and SoundNet.
+
+<img src="./img/demo.png" alt="demo" style="zoom:30%;" />
 
 ## Requirements
 
